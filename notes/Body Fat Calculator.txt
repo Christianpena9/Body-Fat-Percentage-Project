@@ -1,0 +1,17 @@
+http://www.manuelsweb.com/kg_lbs.htm
+
+Formula
+
+lbs / 2.2 = kilograms
+
+kg x  2.2 = pounds
+
+Examples
+
+A man weighing 70 kilograms weighs 154 pounds
+
+70 kg  x  2.2 = 154 lbs
+
+A woman weighing 110 pounds weighs 50 kilograms
+
+110 lbs / 2.2 = 50 kg
